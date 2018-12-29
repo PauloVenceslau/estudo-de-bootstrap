@@ -1,0 +1,64 @@
+/*IMPORTAÇÕES*/
+ @import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
+
+
+/*CSS DA PAGINA INICIO*/
+
+
+
+#cab-color{
+	background-color: #C0C0C0;
+}
+#cab.row{
+	padding: 20px 20px 10px 30px;
+}
+h4.texto-cab{
+	color: #000000;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 40px;
+}
+.navbar{
+	border-radius: 0;
+	background-color: black;
+}
+#corpoinicio{
+	background-color: #ccc;
+	margin-top: -20px;
+	padding: 10px;
+}
+
+#jb-inicio.jumbotron{
+	background-image: url("../imagens/wb-painel.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.texto-branco{
+	color: #FFFFFF; 
+}
+
+#jb-inicio h5{
+	font-size: 22px;
+}
+
+#rodape.container-fluid {
+	background-color: #000;
+	padding: 40px;
+
+}
+
+/*CSS DA PAGINA EMPRESA*/
+
+
+.text-empresa{
+	color: #696969;
+	font-weight: normal;
+	//font-family: Helvica;
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+
+
+
